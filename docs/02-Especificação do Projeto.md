@@ -7,12 +7,12 @@ Seguem demonstradas por meio dos quadros apresentados o levantamento feito das p
 
 <table>
   <tr>
-   <td width="1000" colspan="5" align="center">[NOME], [IDADE] anos.</td>
+   <td width="1000" colspan="5" align="center">Mark Khalil, 36 anos.</td>
   </tr>
   <tr>
-   <td width="200" align="center" height="200" rowspan="3"><img alt="[IMAGEM]" src=""></td>
+   <td width="200" align="center" height="200" rowspan="3"><img alt="Persona 01" src="https://github.com/RaulShinaede/proj-ingresso-e4-temp/assets/102563767/338cfdd8-6984-484d-8c96-1e9fd4a032fd"></td>
    <td width="150" align="center">Ocupação</td>
-   <td colspan="3">[OCUPAÇÃO]</td>
+   <td colspan="3">Designer</td>
    <tr>
     <td width="150" align="center">Aplicativos</td>
     <td width="210" align="center">Motivações</td>
@@ -22,20 +22,176 @@ Seguem demonstradas por meio dos quadros apresentados o levantamento feito das p
   </tr>
   <tr>
    <td>
-    ●	APP 1<br>
-    ●	APP 2<br>
+    ●	Figma<br>
+    ●	Whatsapp<br>
+    ●	PhotoShop<br>
+    ●	Whatsapp<br>
+    ●	Ilustrator<br> 
    </td>
    <td>
-    ●	MOTIVAÇÃO 1.<br>
-    ●	MOTIVAÇÃO 2.<br>
+    ●	Ter alguma atividade em comum com sua esposa.<br>
+     <br>
+    ●	Se divertir.<br>
    </td>
    <td>
-    ●	FRUSTRAÇÃO 1<br>
-    ●	FRUSTRAÇÃO 2<br>
+    ●	Estar sempre muito ligado ao trabalho.<br>
+     <br>
+    ●	Não ter tempo de qualiodade com sua esposa.<br>
    </td>
    <td>
-    ●	HOBBIE 1<br>
-    ●	HOBBIE 2<br>
+    ●	Não possui Hobbies<br>
+   </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+   <td width="1000" colspan="5" align="center">Paulo Ribeiro, 34 anos.</td>
+  </tr>
+  <tr>
+   <td width="200" align="center" height="200" rowspan="3"><img alt="Persona 02" src="https://github.com/RaulShinaede/proj-ingresso-e4-temp/assets/102563767/71ca936c-9a89-426a-9e45-b1564ed39b13"></td>
+   <td width="150" align="center">Ocupação</td>
+   <td colspan="3">Empresário</td>
+   <tr>
+    <td width="150" align="center">Aplicativos</td>
+    <td width="210" align="center">Motivações</td>
+    <td width="210" align="center">Frustrações</td>
+    <td width="240" align="center">Hobbies, História</td>
+   </tr>
+  </tr>
+  <tr>
+   <td>
+    ●	Whatsapp<br>
+    ●	Outlook<br>
+    ●	Receita<br>
+    ●	Banco Digital<br> 
+    ●	Calculadora<br>
+    ●	TikTok<br> 
+   </td>
+   <td>
+    ●	Se divertir com sua filha.<br>
+     <br>
+    ●	Se desestressar da rotina de trabalho .<br>
+   </td>
+   <td>
+    ●	Falta de tempo com a familia.<br>
+     <br>
+    ●	Viver muito preso ao trabalho e a rotina.<br>
+   </td>
+   <td>
+    ●	Ir ao cinema<br>
+   </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+   <td width="1000" colspan="5" align="center">Maria Soares, 40 anos.</td>
+  </tr>
+  <tr>
+   <td width="200" align="center" height="200" rowspan="3"><img alt="Persona 03" src="https://github.com/RaulShinaede/proj-ingresso-e4-temp/assets/102563767/a6c72185-05e2-462a-9d04-2c6bbc244100"></td>
+   <td width="150" align="center">Ocupação</td>
+   <td colspan="3">Cinéfila</td>
+   <tr>
+    <td width="150" align="center">Aplicativos</td>
+    <td width="210" align="center">Motivações</td>
+    <td width="210" align="center">Frustrações</td>
+    <td width="240" align="center">Hobbies, História</td>
+   </tr>
+  </tr>
+  <tr>
+   <td>
+    ●	Facebook<br>
+    ●	Whatsapp<br>
+    ●	Amazon Prime<br>
+    ● Netflix<br>
+    ●	Youtube<br> 
+    ●	Hbo<br>
+   </td>
+   <td>
+    ●	Assistir todos os filmes que gosta.<br>
+     <br>
+    ●	Encontrar promoções e facilidade para ver seus filmes favoritos.<br>
+   </td>
+   <td>
+    ●	Sempre ter que lidar com as dificuldades de comprar ingressos online.<br>
+     <br>
+    ●	Sentir falta de otimização dos aplicativos de ingresso disponíveis.<br>
+   </td>
+   <td>
+    ●	Análisar os filmes assistidos e postar em seu canal no youtube.<br>
+   </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+   <td width="1000" colspan="5" align="center">Isabela, 29 anos.</td>
+  </tr>
+  <tr>
+   <td width="200" align="center" height="200" rowspan="3"><img alt="Persona 04" src="https://github.com/RaulShinaede/proj-ingresso-e4-temp/assets/102563767/9cc5924b-117a-402c-bfee-a2f50a515846"></td>
+   <td width="150" align="center">Ocupação</td>
+   <td colspan="3">Estilista</td>
+   <tr>
+    <td width="150" align="center">Aplicativos</td>
+    <td width="210" align="center">Motivações</td>
+    <td width="210" align="center">Frustrações</td>
+    <td width="240" align="center">Hobbies, História</td>
+   </tr>
+  </tr>
+  <tr>
+   <td>
+    ●	Photoshop<br>
+    ●	Coreo Draw<br>
+    ●	Whatsapp<br>
+    ●	Instagram<br> 
+   </td>
+   <td>
+    ●	Se inspirar para criar suas roupas por meio do cinema.<br>
+     <br>
+    ●	Crescer seu negócio e aumentar sua produção de roupas.<br>
+   </td>
+   <td>
+    ●	Muitas vezes precisar comprar seus ingressos na bilheteria física do cinema.<br>
+     <br>
+    ●	Perder sessões por lentidões de sitemas online e de totem dos cinemas.<br>
+   </td>
+   <td>
+    ● Viajar<br>
+   </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+   <td width="1000" colspan="5" align="center">Simone Silva, 45 anos.</td>
+  </tr>
+  <tr>
+   <td width="200" align="center" height="200" rowspan="3"><img alt="Persona 05" src="https://github.com/RaulShinaede/proj-ingresso-e4-temp/assets/102563767/bff6fe67-8bcd-42f4-9329-907c574e4056"></td>
+   <td width="150" align="center">Ocupação</td>
+   <td colspan="3">Dona de Casa</td>
+   <tr>
+    <td width="150" align="center">Aplicativos</td>
+    <td width="210" align="center">Motivações</td>
+    <td width="210" align="center">Frustrações</td>
+    <td width="240" align="center">Hobbies, História</td>
+   </tr>
+  </tr>
+  <tr>
+   <td>
+    ●	Youtube<br>
+    ●	Netflix<br>
+    ●	TikTok<br>
+    ●	Google Agenda<br>
+   </td>
+   <td>
+    ●	Se divertir com a família.<br>
+     <br>
+    ● Ensinar aos filhos a cultura do cinema.<br>
+   </td>
+   <td>
+    ●	Perder os horários das sessões por não saber onde assistir os filmes.<br>
+     <br>
+    ●	Não conseguir encontrar filmes dublados para seus filhos.<br>
+   </td>
+   <td>
+    ●	Desfrutar da companhia dos filhos<br>
    </td>
   </tr>
  </table>
