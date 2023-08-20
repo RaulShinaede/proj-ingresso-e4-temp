@@ -123,7 +123,7 @@ Seguem demonstradas por meio dos quadros apresentados o levantamento feito das p
  </table>
  <table>
   <tr>
-   <td width="1000" colspan="5" align="center">Isabela, 29 anos.</td>
+   <td width="1000" colspan="5" align="center">Isabela Campos, 29 anos.</td>
   </tr>
   <tr>
    <td width="200" align="center" height="200" rowspan="3"><img alt="Persona 04" src="https://github.com/RaulShinaede/proj-ingresso-e4-temp/assets/102563767/9cc5924b-117a-402c-bfee-a2f50a515846"></td>
@@ -208,14 +208,29 @@ A fim de buscar mais informações sobre os motivos e causas de uso dessas pesso
     <td width="300" align="center"><strong>PARA ... <code>MOTIVO/VALOR</code></strong></td>
   </tr>
       <tr>
-        <td>[NOME]</td>
-        <td>[FUNCIONALIDADE]</td>
-        <td>[MOTIVO]</td>
+        <td>Mark Khalil</td>
+        <td>Passar mais tempo de qualidade com minha esposa.</td>
+        <td>Fortificar nossa relação.</td>
       </tr>
       <tr>
-        <td>[NOME]</td>
-        <td>[FUNCIONALIDADE]</td>
-        <td>[MOTIVO]</td>
+        <td>Paulo Ribeiro</td>
+        <td>Passar mais tempo de qualidade com minha filha.</td>
+        <td>aproveitar mais a vida e me desligar mais do trabalho.</td>
+      </tr>
+       <tr>
+        <td>Maria Soares</td>
+        <td>Acompanhar todos os lancamentos do cinema.</td>
+        <td>Aumentar as vizualizações do meu canal no youtube.</td>
+      </tr>
+       <tr>
+        <td>Isabela Campos</td>
+        <td>Buscar inspirações para melhorar minhas criações.</td>
+        <td>Crescer minha marca e minha carteira de clientes.</td>
+      </tr>
+       <tr>
+        <td>Simone Silva</td>
+        <td>Passar tempo com meus filhos.</td>
+        <td>Cria-los com conteúdo e base de cultura.</td>
       </tr>
 </table>
 
